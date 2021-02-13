@@ -15,4 +15,8 @@ this is the intro
 
 ## deployment
 
+mas lineas 
+
 ## how to contribute 
+
+ultimas 
